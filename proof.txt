@@ -1,0 +1,7 @@
+OS Node: kali
+OS Name: Linux
+Release: 6.16.8+kali-amd64
+------------------------------------------------
+KERNEL DEEP CHECK:
+Linux version 6.16.8+kali-amd64 (devel@kali.org) (x86_64-linux-gnu-gcc-14 (Debian 14.3.0-8) 14.3.0, GNU ld (GNU Binutils for Debian) 2.45) #1 SMP PREEMPT_DYNAMIC Kali 6.16.8-1kali1 (2025-09-24)
+------------------------------------------------
